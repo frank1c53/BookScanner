@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000804379590",
+    "project_id": "bookscanner-38f39",
+    "storage_bucket": "bookscanner-38f39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000804379590:android:db9140c0802a20ed0460c7",
+        "android_client_info": {
+          "package_name": "com.organization.bookscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000804379590-blanbkhant2q4dnn0n2p05auviagfpnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReVS3CZSmQLYymxffiH8NS85rRhLvjaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000804379590-blanbkhant2q4dnn0n2p05auviagfpnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
